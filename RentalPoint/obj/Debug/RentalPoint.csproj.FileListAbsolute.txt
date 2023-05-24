@@ -1,0 +1,10 @@
+C:\Users\Костик\source\repos\RentalPoint\RentalPoint\bin\Debug\RentalPoint.exe.config
+C:\Users\Костик\source\repos\RentalPoint\RentalPoint\bin\Debug\RentalPoint.exe
+C:\Users\Костик\source\repos\RentalPoint\RentalPoint\bin\Debug\RentalPoint.pdb
+C:\Users\Костик\source\repos\RentalPoint\RentalPoint\obj\Debug\RentalPoint.csproj.AssemblyReference.cache
+C:\Users\Костик\source\repos\RentalPoint\RentalPoint\obj\Debug\RentalPoint.Form_Autorization.resources
+C:\Users\Костик\source\repos\RentalPoint\RentalPoint\obj\Debug\RentalPoint.Properties.Resources.resources
+C:\Users\Костик\source\repos\RentalPoint\RentalPoint\obj\Debug\RentalPoint.csproj.GenerateResource.cache
+C:\Users\Костик\source\repos\RentalPoint\RentalPoint\obj\Debug\RentalPoint.csproj.CoreCompileInputs.cache
+C:\Users\Костик\source\repos\RentalPoint\RentalPoint\obj\Debug\RentalPoint.exe
+C:\Users\Костик\source\repos\RentalPoint\RentalPoint\obj\Debug\RentalPoint.pdb
